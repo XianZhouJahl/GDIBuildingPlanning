@@ -10,7 +10,7 @@ Geschosse                                : 1
 MENGENERMITTLUNG
 vorhandene Mauerwerksdicke               : 24.0, 40.0 cm
 Wandfläche 0.24er Mauerwerk          	 : 44,4374 m²
-Wandfläche 0.4er Mauerwerk          	 : 80,5656 m²
+Wandfläche 0.4er Mauerwerk          	 : 76,2456 m²
 vorhandene Betonfestigkeitsklassen       : C25/30, C20/25
 Betongmenge C25/30                       : 34,9847 m³
 Betongmenge C20/25                       : 0,2545 m³
@@ -18,4 +18,4 @@ Bewehrungsmenge                          : 12,0868 to
 Fenster                                  : 7
 Türen                                    : 6
 -----------------------------------------------------------------
-Ende des Berichts                          2019/02/03
+Ende des Berichts                          2019/02/16

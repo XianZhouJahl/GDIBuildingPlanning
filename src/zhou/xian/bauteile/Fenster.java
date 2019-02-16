@@ -9,6 +9,8 @@ public class Fenster extends Oeffnung {
 		this.setBreite(breite);
 		this.setHoehe(hoehe);
 	}
-	
-	
+
+	public double getBruestungshoehe() {
+		return bruestungshoehe;
+	}
 }

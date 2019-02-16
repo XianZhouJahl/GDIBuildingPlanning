@@ -1,7 +1,5 @@
 package zhou.xian.bauteile;
 
-import zhou.xian.raemlicheObjekte.Geschoss;
-
 public class Einzelfundament extends Fundament {
 	private double breite;
 	
